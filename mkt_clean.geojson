@@ -1,0 +1,1643 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1581642,39.9429642 ]
+    },
+    "properties": {
+    "name":"Whole Foods Philadelphia 2",
+    "type":"Supermarket",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2274388,40.0439981 ]
+    },
+    "properties": {
+    "name":"Shoprite",
+    "type":"Supermarket",
+    "neighborhood":"UPPER_ROXBOROUGH",
+    "listname":"Upper Roxborough",
+    "mapname":"Upper Roxborough"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1892173,40.0567894 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"MOUNT_AIRY_WEST",
+    "listname":"Mount Airy, West",
+    "mapname":"West Mount Airy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2237487,39.9782004 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"WEST_PARKSIDE",
+    "listname":"West Parkside",
+    "mapname":"West Parkside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1132554,40.0108484 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"HUNTING_PARK",
+    "listname":"Hunting Park",
+    "mapname":"Hunting Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1391226,39.9688976 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"NORTHERN_LIBERTIES",
+    "listname":"Northern Liberties",
+    "mapname":"Northern Liberties"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1561251,39.9548883 ]
+    },
+    "properties": {
+    "name":"AsiaFresh",
+    "type":"Supermarket",
+    "neighborhood":"CHINATOWN",
+    "listname":"Chinatown",
+    "mapname":"Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0691343,40.0677398 ]
+    },
+    "properties": {
+    "name":"Holiday Super Market",
+    "type":"Supermarket",
+    "neighborhood":"FOX_CHASE",
+    "listname":"Fox Chase",
+    "mapname":"Fox Chase"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1365825,39.9919295 ]
+    },
+    "properties": {
+    "name":"Cousins",
+    "type":"Supermarket",
+    "neighborhood":"FAIRHILL",
+    "listname":"Fairhill",
+    "mapname":"Fairhill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.132135,39.9914167 ]
+    },
+    "properties": {
+    "name":"Fine Fare",
+    "type":"Supermarket",
+    "neighborhood":"MCGUIRE",
+    "listname":"McGuire",
+    "mapname":"McGuire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2130513,39.9592901 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"WEST_POWELTON",
+    "listname":"West Powelton",
+    "mapname":"West Powelton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0103871,40.052092 ]
+    },
+    "properties": {
+    "name":"PJP Marketplace",
+    "type":"Supermarket",
+    "neighborhood":"PENNYPACK_WOODS",
+    "listname":"Pennypack Woods",
+    "mapname":"Pennypack Woods"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1440723,39.9808738 ]
+    },
+    "properties": {
+    "name":"cousin's",
+    "type":"Supermarket",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1764296,39.9541843 ]
+    },
+    "properties": {
+    "name":"Trader Joe's",
+    "type":"Supermarket",
+    "neighborhood":"LOGAN_SQUARE",
+    "listname":"Logan Square",
+    "mapname":"Logan Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1773461,39.9671274 ]
+    },
+    "properties": {
+    "name":"Klein's Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"SPRING_GARDEN",
+    "listname":"Spring Garden",
+    "mapname":"Spring Garden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1708813,39.9478413 ]
+    },
+    "properties": {
+    "name":"Rittenhouse Market",
+    "type":"Supermarket",
+    "neighborhood":"RITTENHOUSE",
+    "listname":"Rittenhouse",
+    "mapname":"Rittenhouse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1445149,39.9613521 ]
+    },
+    "properties": {
+    "name":"Museum Deli",
+    "type":"Supermarket",
+    "neighborhood":"NORTHERN_LIBERTIES",
+    "listname":"Northern Liberties",
+    "mapname":"Northern Liberties"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1959758,40.0465614 ]
+    },
+    "properties": {
+    "name":"Weavers Way Co-op",
+    "type":"Supermarket",
+    "neighborhood":"MOUNT_AIRY_WEST",
+    "listname":"Mount Airy, West",
+    "mapname":"West Mount Airy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2337888,39.9606726 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer",
+    "type":"Supermarket",
+    "neighborhood":"COBBS_CREEK",
+    "listname":"Cobbs Creek",
+    "mapname":"Cobbs Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0167552,40.1189938 ]
+    },
+    "properties": {
+    "name":"Netcost Market",
+    "type":"Supermarket",
+    "neighborhood":"SOMERTON",
+    "listname":"Somerton",
+    "mapname":"Somerton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1537709,40.0435207 ]
+    },
+    "properties": {
+    "name":"Johnny's Groceries",
+    "type":"Supermarket",
+    "neighborhood":"OGONTZ",
+    "listname":"Ogontz",
+    "mapname":"Ogontz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2492675,39.9717868 ]
+    },
+    "properties": {
+    "name":"Shoprite",
+    "type":"Supermarket",
+    "neighborhood":"OVERBROOK",
+    "listname":"Overbrook",
+    "mapname":"Overbrook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1707937,39.9296359 ]
+    },
+    "properties": {
+    "name":"Friendly Grocery",
+    "type":"Supermarket",
+    "neighborhood":"NEWBOLD",
+    "listname":"Newbold",
+    "mapname":"Newbold"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2027073,39.9629562 ]
+    },
+    "properties": {
+    "name":"Eight Brothers",
+    "type":"Supermarket",
+    "neighborhood":"HAVERFORD_NORTH",
+    "listname":"Haverford North",
+    "mapname":"Haverford North"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1381283,40.0376947 ]
+    },
+    "properties": {
+    "name":"Rodriguez Groceries",
+    "type":"Supermarket",
+    "neighborhood":"FERN_ROCK",
+    "listname":"Fern Rock",
+    "mapname":"Fern Rock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2231946,39.9392134 ]
+    },
+    "properties": {
+    "name":"Great Value",
+    "type":"Supermarket",
+    "neighborhood":"KINGSESSING",
+    "listname":"Kingsessing",
+    "mapname":"Kingsessing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1600086,40.0437721 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer",
+    "type":"Supermarket",
+    "neighborhood":"GERMANTOWN_EAST",
+    "listname":"Germantown, East",
+    "mapname":"East Germantown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1591946,39.978776 ]
+    },
+    "properties": {
+    "name":"Lee's Foodway",
+    "type":"Supermarket",
+    "neighborhood":"NORTH_CENTRAL",
+    "listname":"North Central",
+    "mapname":"North Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1940076,40.0090817 ]
+    },
+    "properties": {
+    "name":"Major's Market",
+    "type":"Supermarket",
+    "neighborhood":"EAST_FALLS",
+    "listname":"East Falls",
+    "mapname":"East Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.992991,40.0794583 ]
+    },
+    "properties": {
+    "name":"ACME Markets",
+    "type":"Supermarket",
+    "neighborhood":"MORRELL_PARK",
+    "listname":"Morrell Park",
+    "mapname":"Morrell Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1743597,39.9629206 ]
+    },
+    "properties": {
+    "name":"Whole Foods Market",
+    "type":"Supermarket",
+    "neighborhood":"LOGAN_SQUARE",
+    "listname":"Logan Square",
+    "mapname":"Logan Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1348992,40.0132973 ]
+    },
+    "properties": {
+    "name":"Cosuins Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"HUNTING_PARK",
+    "listname":"Hunting Park",
+    "mapname":"Hunting Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1503499,39.9819861 ]
+    },
+    "properties": {
+    "name":"Diamond Green Deli",
+    "type":"Supermarket",
+    "neighborhood":"HARTRANFT",
+    "listname":"Hartranft",
+    "mapname":"Hartranft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1304226,39.9938828 ]
+    },
+    "properties": {
+    "name":"Sam's Super Market",
+    "type":"Supermarket",
+    "neighborhood":"MCGUIRE",
+    "listname":"McGuire",
+    "mapname":"McGuire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1576097,39.9619562 ]
+    },
+    "properties": {
+    "name":"(Hispanic) Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"WEST_POPLAR",
+    "listname":"West Poplar",
+    "mapname":"West Poplar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1587786,39.942934 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0625895,40.0357289 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"MAYFAIR",
+    "listname":"Mayfair",
+    "mapname":"Mayfair"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0272416,40.0781371 ]
+    },
+    "properties": {
+    "name":"Giant Food Stores",
+    "type":"Supermarket",
+    "neighborhood":"PENNYPACK",
+    "listname":"Pennypack",
+    "mapname":"Pennypack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0322833,40.0936639 ]
+    },
+    "properties": {
+    "name":"Petrovsky Market",
+    "type":"Supermarket",
+    "neighborhood":"BUSTLETON",
+    "listname":"Bustleton",
+    "mapname":"Bustleton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1188995,40.0390265 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"OLNEY",
+    "listname":"Olney",
+    "mapname":"Olney"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2134344,40.0024482 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer of Monument Ave",
+    "type":"Supermarket",
+    "neighborhood":"WYNNEFIELD_HEIGHTS",
+    "listname":"Wynnefield Heights",
+    "mapname":"Wynnefield Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1299107,39.9781838 ]
+    },
+    "properties": {
+    "name":"Riverwards",
+    "type":"Supermarket",
+    "neighborhood":"FISHTOWN",
+    "listname":"Fishtown - Lower Kensington",
+    "mapname":"Fishtown - Lower Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.155894,39.9536402 ]
+    },
+    "properties": {
+    "name":"No. 1 Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"CHINATOWN",
+    "listname":"Chinatown",
+    "mapname":"Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.156204,39.9547139 ]
+    },
+    "properties": {
+    "name":"New World Laundromat & Food Market",
+    "type":"Supermarket",
+    "neighborhood":"CHINATOWN",
+    "listname":"Chinatown",
+    "mapname":"Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1544281,39.9495163 ]
+    },
+    "properties": {
+    "name":"Chestnut Food Market",
+    "type":"Supermarket",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1188409,40.0291582 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"OLNEY",
+    "listname":"Olney",
+    "mapname":"Olney"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1868149,39.9758794 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"BREWERYTOWN",
+    "listname":"Brewerytown",
+    "mapname":"Brewerytown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1746361,40.009545 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"ALLEGHENY_WEST",
+    "listname":"Allegheny West",
+    "mapname":"Allegheny West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.193333,39.9402188 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer",
+    "type":"Supermarket",
+    "neighborhood":"GRAYS_FERRY",
+    "listname":"Grays Ferry",
+    "mapname":"Grays Ferry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1919094,39.954824 ]
+    },
+    "properties": {
+    "name":"GIANT Heirloom Market",
+    "type":"Supermarket",
+    "neighborhood":"UNIVERSITY_CITY",
+    "listname":"University City",
+    "mapname":"University City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1805655,39.9448293 ]
+    },
+    "properties": {
+    "name":"GIANT Heirloom Market",
+    "type":"Supermarket",
+    "neighborhood":"FITLER_SQUARE",
+    "listname":"Fitler Square",
+    "mapname":"Fitler Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1862746,39.9196296 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"GIRARD_ESTATES",
+    "listname":"Girard Estates",
+    "mapname":"Girard Estates"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1547168,39.9139964 ]
+    },
+    "properties": {
+    "name":"Shoprite-Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"STADIUM_DISTRICT",
+    "listname":"Stadium District",
+    "mapname":"Stadium District"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2337695,39.9126757 ]
+    },
+    "properties": {
+    "name":"Grovers Market",
+    "type":"Supermarket",
+    "neighborhood":"PENROSE",
+    "listname":"Penrose",
+    "mapname":"Penrose"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2458331,39.9173021 ]
+    },
+    "properties": {
+    "name":"West Africa International Grocery",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2460745,39.9171433 ]
+    },
+    "properties": {
+    "name":"Island Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2336374,39.926258 ]
+    },
+    "properties": {
+    "name":"Cousins",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2245877,39.9317673 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2325941,39.9342926 ]
+    },
+    "properties": {
+    "name":"Five Star Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"KINGSESSING",
+    "listname":"Kingsessing",
+    "mapname":"Kingsessing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2332538,39.9667076 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0452799,40.0602951 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"RHAWNHURST",
+    "listname":"Rhawnhurst",
+    "mapname":"Rhawnhurst"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2348287,39.9794789 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"OVERBROOK",
+    "listname":"Overbrook",
+    "mapname":"Overbrook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1734731,40.0512956 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"MOUNT_AIRY_EAST",
+    "listname":"Mount Airy, East",
+    "mapname":"East Mount Airy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1423004,40.0465488 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"FERN_ROCK",
+    "listname":"Fern Rock",
+    "mapname":"Fern Rock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1350471,39.9989573 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"FAIRHILL",
+    "listname":"Fairhill",
+    "mapname":"Fairhill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1779313,40.0317661 ]
+    },
+    "properties": {
+    "name":"Chelten Market IGA",
+    "type":"Supermarket",
+    "neighborhood":"GERMANTOWN_PENN_KNOX",
+    "listname":"Germantown, Penn Knox",
+    "mapname":"Germantown - Penn Knox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1823603,40.0312942 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"GERMANTOWN_WEST_CENT",
+    "listname":"Germantown, West Central",
+    "mapname":"West Central Germantown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1497746,40.021054 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"LOGAN",
+    "listname":"Logan",
+    "mapname":"Logan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12155848,39.97843093 ]
+    },
+    "properties": {
+    "name":"Greensgrow Farm Stand",
+    "type":"Farmers market",
+    "neighborhood":"FISHTOWN",
+    "listname":"Fishtown - Lower Kensington",
+    "mapname":"Fishtown - Lower Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13392517,39.98177864 ]
+    },
+    "properties": {
+    "name":"Norris Square Neighborhood Project",
+    "type":"Farmers market",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17067028,39.95014093 ]
+    },
+    "properties": {
+    "name":"Rittenhouse",
+    "type":"Farmers market",
+    "neighborhood":"RITTENHOUSE",
+    "listname":"Rittenhouse",
+    "mapname":"Rittenhouse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17398597,39.96732323 ]
+    },
+    "properties": {
+    "name":"Fairmount",
+    "type":"Farmers market",
+    "neighborhood":"FAIRMOUNT",
+    "listname":"Fairmount",
+    "mapname":"Fairmount"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16404908,39.96981974 ]
+    },
+    "properties": {
+    "name":"Francisville Artisan and Farmers Market",
+    "type":"Farmers market",
+    "neighborhood":"FRANCISVILLE",
+    "listname":"Francisville",
+    "mapname":"Francisville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15706422,39.950016 ]
+    },
+    "properties": {
+    "name":"Jefferson",
+    "type":"Farmers market",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17932424,39.94734056 ]
+    },
+    "properties": {
+    "name":"Fitler Square Park",
+    "type":"Farmers market",
+    "neighborhood":"FITLER_SQUARE",
+    "listname":"Fitler Square",
+    "mapname":"Fitler Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14545198,39.94216939 ]
+    },
+    "properties": {
+    "name":"Headhouse",
+    "type":"Farmers market",
+    "neighborhood":"SOCIETY_HILL",
+    "listname":"Society Hill",
+    "mapname":"Society Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14452089,39.95064114 ]
+    },
+    "properties": {
+    "name":"Christ Church",
+    "type":"Farmers market",
+    "neighborhood":"OLD_CITY",
+    "listname":"Old City",
+    "mapname":"Old City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16677066,40.03473424 ]
+    },
+    "properties": {
+    "name":"Germantown Kitchen Garden",
+    "type":"Farmers market",
+    "neighborhood":"WISTER",
+    "listname":"Wister",
+    "mapname":"Wister"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17271283,40.03437488 ]
+    },
+    "properties": {
+    "name":"Germantown & Schoolhouse",
+    "type":"Farmers market",
+    "neighborhood":"GERMANTOWN_PENN_KNOX",
+    "listname":"Germantown, Penn Knox",
+    "mapname":"Germantown - Penn Knox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19163084,40.00796215 ]
+    },
+    "properties": {
+    "name":"East Falls",
+    "type":"Farmers market",
+    "neighborhood":"EAST_FALLS",
+    "listname":"East Falls",
+    "mapname":"East Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19674331,40.06737439 ]
+    },
+    "properties": {
+    "name":"Chestnut Hill Farmers�� Market",
+    "type":"Farmers market",
+    "neighborhood":"CHESTNUT_HILL",
+    "listname":"Chestnut Hill",
+    "mapname":"Chestnut Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1424391,39.96534293 ]
+    },
+    "properties": {
+    "name":"Liberty Lands Park",
+    "type":"Farmers market",
+    "neighborhood":"NORTHERN_LIBERTIES",
+    "listname":"Northern Liberties",
+    "mapname":"Northern Liberties"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15690161,39.9785248 ]
+    },
+    "properties": {
+    "name":"Cecil B. Moore",
+    "type":"Farmers market",
+    "neighborhood":"YORKTOWN",
+    "listname":"Yorktown",
+    "mapname":"Yorktown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14718576,40.01661869 ]
+    },
+    "properties": {
+    "name":"Hunting Park",
+    "type":"Farmers market",
+    "neighborhood":"HUNTING_PARK",
+    "listname":"Hunting Park",
+    "mapname":"Hunting Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14376043,40.038056 ]
+    },
+    "properties": {
+    "name":"Park and Tabor",
+    "type":"Farmers market",
+    "neighborhood":"LOGAN",
+    "listname":"Logan",
+    "mapname":"Logan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13835394,39.99186093 ]
+    },
+    "properties": {
+    "name":"4th and Lehigh",
+    "type":"Farmers market",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18637399,39.99178624 ]
+    },
+    "properties": {
+    "name":"33rd & Dauphin",
+    "type":"Farmers market",
+    "neighborhood":"STRAWBERRY_MANSION",
+    "listname":"Strawberry Mansion",
+    "mapname":"Strawberry Mansion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17764389,40.00557655 ]
+    },
+    "properties": {
+    "name":"SHARE Nice Roots Farm",
+    "type":"Farmers market",
+    "neighborhood":"ALLEGHENY_WEST",
+    "listname":"Allegheny West",
+    "mapname":"Allegheny West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1343357,39.97500224 ]
+    },
+    "properties": {
+    "name":"North Front Street",
+    "type":"Farmers market",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17228194,40.00409637 ]
+    },
+    "properties": {
+    "name":"26th and Allegheny",
+    "type":"Farmers market",
+    "neighborhood":"ALLEGHENY_WEST",
+    "listname":"Allegheny West",
+    "mapname":"Allegheny West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0768437,40.02326706 ]
+    },
+    "properties": {
+    "name":"Frankford Transportation Center ",
+    "type":"Farmers market",
+    "neighborhood":"FRANKFORD",
+    "listname":"Frankford",
+    "mapname":"Frankford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.07624004,40.04069468 ]
+    },
+    "properties": {
+    "name":"Caster & Hellerman (Oxford Circle)",
+    "type":"Farmers market",
+    "neighborhood":"OXFORD_CIRCLE",
+    "listname":"Oxford Circle",
+    "mapname":"Oxford Circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0218606,40.10011815 ]
+    },
+    "properties": {
+    "name":"Kleinlife",
+    "type":"Farmers market",
+    "neighborhood":"SOMERTON",
+    "listname":"Somerton",
+    "mapname":"Somerton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21957111,40.0490191 ]
+    },
+    "properties": {
+    "name":"Henry Got Crops",
+    "type":"Farmers market",
+    "neighborhood":"WISSAHICKON_PARK",
+    "listname":"Wissahickon Park",
+    "mapname":"Wissahickon Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19591535,40.04638662 ]
+    },
+    "properties": {
+    "name":"Mt. Airy",
+    "type":"Farmers market",
+    "neighborhood":"MOUNT_AIRY_WEST",
+    "listname":"Mount Airy, West",
+    "mapname":"West Mount Airy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16853704,40.03197711 ]
+    },
+    "properties": {
+    "name":"Grumblethorpe House",
+    "type":"Farmers market",
+    "neighborhood":"GERMANTOWN_PENN_KNOX",
+    "listname":"Germantown, Penn Knox",
+    "mapname":"Germantown - Penn Knox"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.153516,40.06429505 ]
+    },
+    "properties": {
+    "name":"West Oak Lane",
+    "type":"Farmers market",
+    "neighborhood":"WEST_OAK_LANE",
+    "listname":"West Oak Lane",
+    "mapname":"West Oak Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14023933,39.95274014 ]
+    },
+    "properties": {
+    "name":"The Food Trust's Market at Cherry Street Pier",
+    "type":"Farmers market",
+    "neighborhood":"RIVERFRONT",
+    "listname":"Riverfront",
+    "mapname":"Riverfront"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22129589,40.03752814 ]
+    },
+    "properties": {
+    "name":"Gorgas Park",
+    "type":"Farmers market",
+    "neighborhood":"WISSAHICKON_HILLS",
+    "listname":"Wissahickon Hills",
+    "mapname":"Wissahickon Hills"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22083224,40.02598747 ]
+    },
+    "properties": {
+    "name":"Pretzel Park",
+    "type":"Farmers market",
+    "neighborhood":"MANAYUNK",
+    "listname":"Manayunk",
+    "mapname":"Manayunk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15743543,39.91897074 ]
+    },
+    "properties": {
+    "name":"Novick Family Urban Farm Stand",
+    "type":"Farmers market",
+    "neighborhood":"WHITMAN",
+    "listname":"Whitman",
+    "mapname":"Whitman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18142207,39.93217094 ]
+    },
+    "properties": {
+    "name":"22nd & Tasker",
+    "type":"Farmers market",
+    "neighborhood":"POINT_BREEZE",
+    "listname":"Point Breeze",
+    "mapname":"Point Breeze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16869095,39.92926543 ]
+    },
+    "properties": {
+    "name":"Broad and Morris",
+    "type":"Farmers market",
+    "neighborhood":"NEWBOLD",
+    "listname":"Newbold",
+    "mapname":"Newbold"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16309294,39.92980187 ]
+    },
+    "properties": {
+    "name":"Fountain",
+    "type":"Farmers market",
+    "neighborhood":"PASSYUNK_SQUARE",
+    "listname":"Passyunk Square",
+    "mapname":"Passyunk Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15116237,39.92697131 ]
+    },
+    "properties": {
+    "name":"Dickinson Square",
+    "type":"Farmers market",
+    "neighborhood":"PENNSPORT",
+    "listname":"Pennsport",
+    "mapname":"Pennsport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21607633,39.93275162 ]
+    },
+    "properties": {
+    "name":"Sankofa Community Farm at Bartram��s Garden",
+    "type":"Farmers market",
+    "neighborhood":"BARTRAM_VILLAGE",
+    "listname":"Bartram Village",
+    "mapname":"Bartram Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22853606,39.93574182 ]
+    },
+    "properties": {
+    "name":"58th & Chester",
+    "type":"Farmers market",
+    "neighborhood":"KINGSESSING",
+    "listname":"Kingsessing",
+    "mapname":"Kingsessing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22459303,39.96490511 ]
+    },
+    "properties": {
+    "name":"52nd & Haverford",
+    "type":"Farmers market",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.20926195,39.94955082 ]
+    },
+    "properties": {
+    "name":"Clark Park",
+    "type":"Farmers market",
+    "neighborhood":"SPRUCE_HILL",
+    "listname":"Spruce Hill",
+    "mapname":"Spruce Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22633095,39.94778425 ]
+    },
+    "properties": {
+    "name":"Greensgrow West",
+    "type":"Farmers market",
+    "neighborhood":"CEDAR_PARK",
+    "listname":"Cedar Park",
+    "mapname":"Cedar Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21667923,39.99736112 ]
+    },
+    "properties": {
+    "name":"Heritage Farm ",
+    "type":"Farmers market",
+    "neighborhood":"WYNNEFIELD_HEIGHTS",
+    "listname":"Wynnefield Heights",
+    "mapname":"Wynnefield Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19478911,39.95315133 ]
+    },
+    "properties": {
+    "name":"University Square",
+    "type":"Farmers market",
+    "neighborhood":"UNIVERSITY_CITY",
+    "listname":"University City",
+    "mapname":"University City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22451541,39.95838766 ]
+    },
+    "properties": {
+    "name":"W. Philly YMCA Market",
+    "type":"Farmers market",
+    "neighborhood":"WALNUT_HILL",
+    "listname":"Walnut Hill",
+    "mapname":"Walnut Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22689788,39.96938581 ]
+    },
+    "properties": {
+    "name":"Neighborhood Foods Farm",
+    "type":"Farmers market",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.213389,39.95855969 ]
+    },
+    "properties": {
+    "name":"Walnut Hill",
+    "type":"Farmers market",
+    "neighborhood":"WALNUT_HILL",
+    "listname":"Walnut Hill",
+    "mapname":"Walnut Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.23378744,39.96800189 ]
+    },
+    "properties": {
+    "name":"Shepard Rec Market",
+    "type":"Farmers market",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21855917,39.96613739 ]
+    },
+    "properties": {
+    "name":"Mill Creek Farm",
+    "type":"Farmers market",
+    "neighborhood":"MILL_CREEK",
+    "listname":"Mill Creek",
+    "mapname":"Mill Creek"
+    }
+  }
+]
+}
