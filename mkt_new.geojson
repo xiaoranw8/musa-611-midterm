@@ -1,0 +1,2129 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1581642,39.9429642 ]
+    },
+    "properties": {
+    "name":"Whole Foods Philadelphia 2",
+    "type":"Supermarket",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West",
+    "StoreSize":43000,
+    "address":"929 South St, Philadelphia, PA 19147",
+    "time":"6am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2274388,40.0439981 ]
+    },
+    "properties": {
+    "name":"Shoprite",
+    "type":"Supermarket",
+    "neighborhood":"UPPER_ROXBOROUGH",
+    "listname":"Upper Roxborough",
+    "mapname":"Upper Roxborough",
+    "StoreSize":75000,
+    "address":"6901 Ridge Ave, Philadelphia, PA 19128",
+    "time":"6am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1892173,40.0567894 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"MOUNT_AIRY_WEST",
+    "listname":"Mount Airy, West",
+    "mapname":"West Mount Airy",
+    "StoreSize":55000,
+    "address":"7010 Germantown Ave, Philadelphia, PA 19119",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2237487,39.9782004 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"WEST_PARKSIDE",
+    "listname":"West Parkside",
+    "mapname":"West Parkside",
+    "StoreSize":75000,
+    "address":"1575 N 52nd St #400, Philadelphia, PA 19131",
+    "time":"7am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1132554,40.0108484 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"HUNTING_PARK",
+    "listname":"Hunting Park",
+    "mapname":"Hunting Park",
+    "StoreSize":16400,
+    "address":"700 E Hunting Park Ave, Philadelphia, PA 19124",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1391226,39.9688976 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"NORTHERN_LIBERTIES",
+    "listname":"Northern Liberties",
+    "mapname":"Northern Liberties",
+    "StoreSize":55000,
+    "address":"180 W Girard Ave, Philadelphia, PA 19123",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1561251,39.9548883 ]
+    },
+    "properties": {
+    "name":"AsiaFresh",
+    "type":"Supermarket",
+    "neighborhood":"CHINATOWN",
+    "listname":"Chinatown",
+    "mapname":"Chinatown",
+    "StoreSize":30000,
+    "address":"142 N 10th St, Philadelphia, PA 19107",
+    "time":"8am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0691343,40.0677398 ]
+    },
+    "properties": {
+    "name":"Holiday Super Market",
+    "type":"Supermarket",
+    "neighborhood":"FOX_CHASE",
+    "listname":"Fox Chase",
+    "mapname":"Fox Chase",
+    "StoreSize":null,
+    "address":"7938 Dungan Rd, Philadelphia, PA 19111",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1365825,39.9919295 ]
+    },
+    "properties": {
+    "name":"Cousins",
+    "type":"Supermarket",
+    "neighborhood":"FAIRHILL",
+    "listname":"Fairhill",
+    "mapname":"Fairhill",
+    "StoreSize":null,
+    "address":"450 E Luzerne St, Philadelphia, PA 19124",
+    "time":"8am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.132135,39.9914167 ]
+    },
+    "properties": {
+    "name":"Fine Fare",
+    "type":"Supermarket",
+    "neighborhood":"MCGUIRE",
+    "listname":"McGuire",
+    "mapname":"McGuire",
+    "StoreSize":null,
+    "address":"131 W Lehigh Ave, Philadelphia, PA 19133",
+    "time":"9am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2130513,39.9592901 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"WEST_POWELTON",
+    "listname":"West Powelton",
+    "mapname":"West Powelton",
+    "StoreSize":16400,
+    "address":"4421 Market St, Philadelphia, PA 19104",
+    "time":"9am - 7pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0103871,40.052092 ]
+    },
+    "properties": {
+    "name":"PJP Marketplace",
+    "type":"Supermarket",
+    "neighborhood":"PENNYPACK_WOODS",
+    "listname":"Pennypack Woods",
+    "mapname":"Pennypack Woods",
+    "StoreSize":null,
+    "address":"8960 Frankford Ave, Philadelphia, PA 19136",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1440723,39.9808738 ]
+    },
+    "properties": {
+    "name":"Cousin's Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington",
+    "StoreSize":null,
+    "address":"1900 N 5th St, Philadelphia, PA 19122",
+    "time":"8am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1764296,39.9541843 ]
+    },
+    "properties": {
+    "name":"Trader Joe's",
+    "type":"Supermarket",
+    "neighborhood":"LOGAN_SQUARE",
+    "listname":"Logan Square",
+    "mapname":"Logan Square",
+    "StoreSize":15000,
+    "address":"2121 Market St, Philadelphia, PA 19103",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1773461,39.9671274 ]
+    },
+    "properties": {
+    "name":"Klein's Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"SPRING_GARDEN",
+    "listname":"Spring Garden",
+    "mapname":"Spring Garden",
+    "StoreSize":null,
+    "address":"2401 Pennsylvania Ave 24th &, Fairmount Ave, Philadelphia, PA 19130",
+    "time":"8am - 8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1708813,39.9478413 ]
+    },
+    "properties": {
+    "name":"Rittenhouse Market",
+    "type":"Supermarket",
+    "neighborhood":"RITTENHOUSE",
+    "listname":"Rittenhouse",
+    "mapname":"Rittenhouse",
+    "StoreSize":null,
+    "address":"1733 Spruce St, Philadelphia, PA 19103",
+    "time":"6:30am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1445149,39.9613521 ]
+    },
+    "properties": {
+    "name":"Museum Deli",
+    "type":"Supermarket",
+    "neighborhood":"NORTHERN_LIBERTIES",
+    "listname":"Northern Liberties",
+    "mapname":"Northern Liberties",
+    "StoreSize":null,
+    "address":"333 Spring Garden St, Philadelphia, PA 19123",
+    "time":"7am - 7pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1959758,40.0465614 ]
+    },
+    "properties": {
+    "name":"Weavers Way Co-op",
+    "type":"Supermarket",
+    "neighborhood":"MOUNT_AIRY_WEST",
+    "listname":"Mount Airy, West",
+    "mapname":"West Mount Airy",
+    "StoreSize":null,
+    "address":"559 Carpenter Ln, Philadelphia, PA 19119",
+    "time":"10am - 7pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2337888,39.9606726 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer",
+    "type":"Supermarket",
+    "neighborhood":"COBBS_CREEK",
+    "listname":"Cobbs Creek",
+    "mapname":"Cobbs Creek",
+    "StoreSize":null,
+    "address":"5601 Chestnut St, Philadelphia, PA 19139",
+    "time":"6am - 12am",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0167552,40.1189938 ]
+    },
+    "properties": {
+    "name":"Netcost Market",
+    "type":"Supermarket",
+    "neighborhood":"SOMERTON",
+    "listname":"Somerton",
+    "mapname":"Somerton",
+    "StoreSize":null,
+    "address":"11701 Bustleton Ave, Philadelphia, PA 19116",
+    "time":"9am - 7:30pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1537709,40.0435207 ]
+    },
+    "properties": {
+    "name":"Johnny's Groceries",
+    "type":"Supermarket",
+    "neighborhood":"OGONTZ",
+    "listname":"Ogontz",
+    "mapname":"Ogontz",
+    "StoreSize":null,
+    "address":"1956 W Nedro Ave, Philadelphia, PA 19141",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.254166,39.971658 ]
+    },
+    "properties": {
+    "name":"Shoprite",
+    "type":"Supermarket",
+    "neighborhood":"OVERBROOK",
+    "listname":"Overbrook",
+    "mapname":"Overbrook",
+    "StoreSize":75000,
+    "address":"6710 Haverford Ave, Philadelphia, PA 19151",
+    "time":"7am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1707937,39.9296359 ]
+    },
+    "properties": {
+    "name":"Friendly Grocery",
+    "type":"Supermarket",
+    "neighborhood":"NEWBOLD",
+    "listname":"Newbold",
+    "mapname":"Newbold",
+    "StoreSize":null,
+    "address":"1515 Morris St, Philadelphia, PA 19145",
+    "time":"Wed, Thur, Fri 8am�C12pm 3:30�C8pm; Sat, Sun 8am�C8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.174272,39.932625 ]
+    },
+    "properties": {
+    "name":"Eight Brothers",
+    "type":"Supermarket",
+    "neighborhood":"HAVERFORD_NORTH",
+    "listname":"Haverford North",
+    "mapname":"Haverford North",
+    "StoreSize":null,
+    "address":"1733 Dickinson St # 39, Philadelphia, PA 19146",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1381283,40.0376947 ]
+    },
+    "properties": {
+    "name":"Rodriguez Groceries",
+    "type":"Supermarket",
+    "neighborhood":"FERN_ROCK",
+    "listname":"Fern Rock",
+    "mapname":"Fern Rock",
+    "StoreSize":null,
+    "address":"5600 N 10th St, Philadelphia, PA 19141",
+    "time":"8am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2231946,39.9392134 ]
+    },
+    "properties": {
+    "name":"Great Value",
+    "type":"Supermarket",
+    "neighborhood":"KINGSESSING",
+    "listname":"Kingsessing",
+    "mapname":"Kingsessing",
+    "StoreSize":null,
+    "address":"5406 Chester Ave, Philadelphia, PA 19143",
+    "time":"7am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1600086,40.0437721 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer",
+    "type":"Supermarket",
+    "neighborhood":"GERMANTOWN_EAST",
+    "listname":"Germantown, East",
+    "mapname":"East Germantown",
+    "StoreSize":null,
+    "address":"5301 Chew Ave, Philadelphia, PA 19138",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1591946,39.978776 ]
+    },
+    "properties": {
+    "name":"Lee's Foodway",
+    "type":"Supermarket",
+    "neighborhood":"NORTH_CENTRAL",
+    "listname":"North Central",
+    "mapname":"North Central",
+    "StoreSize":null,
+    "address":"1428 Cecil B. Moore Ave, Philadelphia, PA 19121",
+    "time":"Mon, Tues, Sun 10:30am - 11pm; Wed-Sat 10:30am-12am",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1940076,40.0090817 ]
+    },
+    "properties": {
+    "name":"Major's Market",
+    "type":"Supermarket",
+    "neighborhood":"EAST_FALLS",
+    "listname":"East Falls",
+    "mapname":"East Falls",
+    "StoreSize":null,
+    "address":"4207 Ridge Ave #1745, Philadelphia, PA 19129",
+    "time":"9am - 8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.992991,40.0794583 ]
+    },
+    "properties": {
+    "name":"ACME Markets",
+    "type":"Supermarket",
+    "neighborhood":"MORRELL_PARK",
+    "listname":"Morrell Park",
+    "mapname":"Morrell Park",
+    "StoreSize":55000,
+    "address":"3200-09 Red Lion Rd, Philadelphia, PA 19114",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1743597,39.9629206 ]
+    },
+    "properties": {
+    "name":"Whole Foods Market",
+    "type":"Supermarket",
+    "neighborhood":"LOGAN_SQUARE",
+    "listname":"Logan Square",
+    "mapname":"Logan Square",
+    "StoreSize":43000,
+    "address":"2101 Pennsylvania Ave, Philadelphia, PA 19130",
+    "time":"6am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1348992,40.0132973 ]
+    },
+    "properties": {
+    "name":"Cosuins Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"HUNTING_PARK",
+    "listname":"Hunting Park",
+    "mapname":"Hunting Park",
+    "StoreSize":null,
+    "address":"4037 N 5th St, Philadelphia, PA 19140",
+    "time":"8am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1503499,39.9819861 ]
+    },
+    "properties": {
+    "name":"Diamond Green Deli",
+    "type":"Supermarket",
+    "neighborhood":"HARTRANFT",
+    "listname":"Hartranft",
+    "mapname":"Hartranft",
+    "StoreSize":null,
+    "address":"1000 Diamond St Unit 102-104, Philadelphia, PA 19122",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1304226,39.9938828 ]
+    },
+    "properties": {
+    "name":"Sam's Super Market",
+    "type":"Supermarket",
+    "neighborhood":"MCGUIRE",
+    "listname":"McGuire",
+    "mapname":"McGuire",
+    "StoreSize":null,
+    "address":"2852 N Front St, Philadelphia, PA 19133",
+    "time":"Mon-Sat 9am - 6pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1576097,39.9619562 ]
+    },
+    "properties": {
+    "name":"(Hispanic) Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"WEST_POPLAR",
+    "listname":"West Poplar",
+    "mapname":"West Poplar",
+    "StoreSize":null,
+    "address":"1139 Spring Garden St, Philadelphia, PA 19123",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1587786,39.942934 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West",
+    "StoreSize":55000,
+    "address":"1001 South St, Philadelphia, PA 19147",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0625895,40.0357289 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"MAYFAIR",
+    "listname":"Mayfair",
+    "mapname":"Mayfair",
+    "StoreSize":55000,
+    "address":"6601 Roosevelt Blvd, Philadelphia, PA 19149",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0272416,40.0781371 ]
+    },
+    "properties": {
+    "name":"Giant Food Stores",
+    "type":"Supermarket",
+    "neighborhood":"PENNYPACK",
+    "listname":"Pennypack",
+    "mapname":"Pennypack",
+    "StoreSize":98000,
+    "address":"2550 Grant Ave, Philadelphia, PA 19114",
+    "time":"6am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0322833,40.0936639 ]
+    },
+    "properties": {
+    "name":"Petrovsky Market",
+    "type":"Supermarket",
+    "neighborhood":"BUSTLETON",
+    "listname":"Bustleton",
+    "mapname":"Bustleton",
+    "StoreSize":null,
+    "address":"9808 Bustleton Ave unit-l, Philadelphia, PA 19115",
+    "time":"9am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1188995,40.0390265 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"OLNEY",
+    "listname":"Olney",
+    "mapname":"Olney",
+    "StoreSize":75000,
+    "address":"101 E Olney Ave, Philadelphia, PA 19120",
+    "time":"7am - 12am; Sun 7am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2134344,40.0024482 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer of Monument Ave",
+    "type":"Supermarket",
+    "neighborhood":"WYNNEFIELD_HEIGHTS",
+    "listname":"Wynnefield Heights",
+    "mapname":"Wynnefield Heights",
+    "StoreSize":null,
+    "address":"4160 Monument Rd, Philadelphia, PA 19131",
+    "time":"7am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1299107,39.9781838 ]
+    },
+    "properties": {
+    "name":"Riverwards",
+    "type":"Supermarket",
+    "neighborhood":"FISHTOWN",
+    "listname":"Fishtown - Lower Kensington",
+    "mapname":"Fishtown - Lower Kensington",
+    "StoreSize":null,
+    "address":"2200 E Norris St, Philadelphia, PA 19125",
+    "time":"Mon, Fri, Sat, Sun 11am - 7pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.158803,39.920514 ]
+    },
+    "properties": {
+    "name":"No. 1 Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"CHINATOWN",
+    "listname":"Chinatown",
+    "mapname":"Chinatown",
+    "StoreSize":null,
+    "address":"2234 S 7th St, Philadelphia, PA 19148",
+    "time":"8am - 9pm; Sun 8:30am - 8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.156204,39.9547139 ]
+    },
+    "properties": {
+    "name":"New World Laundromat & Food Market",
+    "type":"Supermarket",
+    "neighborhood":"CHINATOWN",
+    "listname":"Chinatown",
+    "mapname":"Chinatown",
+    "StoreSize":null,
+    "address":"136 N 10th St, Philadelphia, PA 19107",
+    "time":"9am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1544281,39.9495163 ]
+    },
+    "properties": {
+    "name":"Chestnut Food Market",
+    "type":"Supermarket",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West",
+    "StoreSize":null,
+    "address":"Ranstead St, Philadelphia, PA 19107",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1188409,40.0291582 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"OLNEY",
+    "listname":"Olney",
+    "mapname":"Olney",
+    "StoreSize":17000,
+    "address":"5201 Rising Sun Ave, Philadelphia, PA 19120",
+    "time":"8am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1868149,39.9758794 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"BREWERYTOWN",
+    "listname":"Brewerytown",
+    "mapname":"Brewerytown",
+    "StoreSize":16400,
+    "address":"3101 W Girard Ave, Philadelphia, PA 19130",
+    "time":"9am - 7pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1746361,40.009545 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"ALLEGHENY_WEST",
+    "listname":"Allegheny West",
+    "mapname":"Allegheny West",
+    "StoreSize":75000,
+    "address":"3400 Fox St Unit A, Philadelphia, PA 19129",
+    "time":"7am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.193333,39.9402188 ]
+    },
+    "properties": {
+    "name":"The Fresh Grocer",
+    "type":"Supermarket",
+    "neighborhood":"GRAYS_FERRY",
+    "listname":"Grays Ferry",
+    "mapname":"Grays Ferry",
+    "StoreSize":null,
+    "address":"3021 Grays Ferry Ave, Philadelphia, PA 19146",
+    "time":"7am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1919094,39.954824 ]
+    },
+    "properties": {
+    "name":"GIANT Heirloom Market",
+    "type":"Supermarket",
+    "neighborhood":"UNIVERSITY_CITY",
+    "listname":"University City",
+    "mapname":"University City",
+    "StoreSize":9500,
+    "address":"3401 Chestnut St, Philadelphia, PA 19104",
+    "time":"6am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.180796,39.944759 ]
+    },
+    "properties": {
+    "name":"GIANT Heirloom Market",
+    "type":"Supermarket",
+    "neighborhood":"FITLER_SQUARE",
+    "listname":"Fitler Square",
+    "mapname":"Fitler Square",
+    "StoreSize":9500,
+    "address":"2303 Bainbridge St, Philadelphia, PA 19146",
+    "time":"6am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1862746,39.9196296 ]
+    },
+    "properties": {
+    "name":"ShopRite",
+    "type":"Supermarket",
+    "neighborhood":"GIRARD_ESTATES",
+    "listname":"Girard Estates",
+    "mapname":"Girard Estates",
+    "StoreSize":75000,
+    "address":"24th St &, W Oregon Ave, Philadelphia, PA 19145",
+    "time":"6am - 11pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1547168,39.9139964 ]
+    },
+    "properties": {
+    "name":"Shoprite-Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"STADIUM_DISTRICT",
+    "listname":"Stadium District",
+    "mapname":"Stadium District",
+    "StoreSize":75000,
+    "address":"Whitman Plaza, Philadelphia, PA 19148",
+    "time":"",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2337695,39.9126757 ]
+    },
+    "properties": {
+    "name":"Grovers Market",
+    "type":"Supermarket",
+    "neighborhood":"PENROSE",
+    "listname":"Penrose",
+    "mapname":"Penrose",
+    "StoreSize":null,
+    "address":"2910 S 70th St, Philadelphia, PA 19154",
+    "time":"8am - 8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2458331,39.9173021 ]
+    },
+    "properties": {
+    "name":"West Africa International Grocery",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall",
+    "StoreSize":null,
+    "address":"7284 Woodland Ave, Philadelphia, PA 19142",
+    "time":"N/A",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2460745,39.9171433 ]
+    },
+    "properties": {
+    "name":"Island Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall",
+    "StoreSize":null,
+    "address":"7298 Woodland Ave, Philadelphia, PA 19142",
+    "time":"24/7",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2336374,39.926258 ]
+    },
+    "properties": {
+    "name":"Cousins",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall",
+    "StoreSize":null,
+    "address":"6411 Woodland Ave, Philadelphia, PA 19142",
+    "time":"8am - 8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2245877,39.9317673 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"PASCHALL",
+    "listname":"Paschall",
+    "mapname":"Paschall",
+    "StoreSize":17000,
+    "address":"5800 Woodland Ave, Philadelphia, PA 19143",
+    "time":"24/7",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2325941,39.9342926 ]
+    },
+    "properties": {
+    "name":"Five Star Supermarket",
+    "type":"Supermarket",
+    "neighborhood":"KINGSESSING",
+    "listname":"Kingsessing",
+    "mapname":"Kingsessing",
+    "StoreSize":null,
+    "address":"1800 S 60th St, Philadelphia, PA 19142",
+    "time":"N/A",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2332538,39.9667076 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington",
+    "StoreSize":17000,
+    "address":"5601 Vine St, Philadelphia, PA 19139",
+    "time":"5am - 4am",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0452799,40.0602951 ]
+    },
+    "properties": {
+    "name":"Acme",
+    "type":"Supermarket",
+    "neighborhood":"RHAWNHURST",
+    "listname":"Rhawnhurst",
+    "mapname":"Rhawnhurst",
+    "StoreSize":55000,
+    "address":"8200 Roosevelt Blvd, Philadelphia, PA 19152",
+    "time":"7am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2348287,39.9794789 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"OVERBROOK",
+    "listname":"Overbrook",
+    "mapname":"Overbrook",
+    "StoreSize":17000,
+    "address":"5610 Lancaster Ave, Philadelphia, PA 19125",
+    "time":"8am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1734731,40.0512956 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"MOUNT_AIRY_EAST",
+    "listname":"Mount Airy, East",
+    "mapname":"East Mount Airy",
+    "StoreSize":17000,
+    "address":"6301 Chew Ave, Philadelphia, PA 19138",
+    "time":"5am - 4am",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1423004,40.0465488 ]
+    },
+    "properties": {
+    "name":"Aldi",
+    "type":"Supermarket",
+    "neighborhood":"FERN_ROCK",
+    "listname":"Fern Rock",
+    "mapname":"Fern Rock",
+    "StoreSize":16400,
+    "address":"6101 N Broad St, Philadelphia, PA 19141",
+    "time":"8am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13641001,39.999235 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"FAIRHILL",
+    "listname":"Fairhill",
+    "mapname":"Fairhill",
+    "StoreSize":17000,
+    "address":"400 W Allegheny Ave, Philadelphia, PA 19133",
+    "time":"8am - 10pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1779313,40.0317661 ]
+    },
+    "properties": {
+    "name":"Chelten Market IGA",
+    "type":"Supermarket",
+    "neighborhood":"GERMANTOWN_PENN_KNOX",
+    "listname":"Germantown, Penn Knox",
+    "mapname":"Germantown - Penn Knox",
+    "StoreSize":null,
+    "address":"176 W Chelten Ave #3302, Philadelphia, PA 19144",
+    "time":"8am - 9pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1823603,40.0312942 ]
+    },
+    "properties": {
+    "name":"Save A Lot",
+    "type":"Supermarket",
+    "neighborhood":"GERMANTOWN_WEST_CENT",
+    "listname":"Germantown, West Central",
+    "mapname":"West Central Germantown",
+    "StoreSize":17000,
+    "address":"5834 Pulaski Ave, Philadelphia, PA 19144",
+    "time":"24/7",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1497746,40.021054 ]
+    },
+    "properties": {
+    "name":"Save-A-Lot",
+    "type":"Supermarket",
+    "neighborhood":"LOGAN",
+    "listname":"Logan",
+    "mapname":"Logan",
+    "StoreSize":17000,
+    "address":"4424 N Broad St, Philadelphia, PA 19140",
+    "time":"8am - 8pm",
+    "month":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12155848,39.97843093 ]
+    },
+    "properties": {
+    "name":"Greensgrow Farm Stand",
+    "type":"Farmers market",
+    "neighborhood":"FISHTOWN",
+    "listname":"Fishtown - Lower Kensington",
+    "mapname":"Fishtown - Lower Kensington",
+    "StoreSize":null,
+    "address":"2501 E. Cumberland Ave",
+    "time":"Thurs: 3-7pm, Sat: 10am-2pm ",
+    "month":"May - September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13392517,39.98177864 ]
+    },
+    "properties": {
+    "name":"Norris Square Neighborhood Project",
+    "type":"Farmers market",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington",
+    "StoreSize":null,
+    "address":"Diamond St and N. Howard St",
+    "time":"1pm - 3pm",
+    "month":"May - October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17067028,39.95014093 ]
+    },
+    "properties": {
+    "name":"Rittenhouse",
+    "type":"Farmers market",
+    "neighborhood":"RITTENHOUSE",
+    "listname":"Rittenhouse",
+    "mapname":"Rittenhouse",
+    "StoreSize":null,
+    "address":"18th and Walnut St",
+    "time":"Tues 10am-2pm, Sat 9am-3pm (may to Nov); 10am - 2pm (Dec to Apr)",
+    "month":"Tues- June 4th - November 26th; Sat- Year round: 9am - 3pm (May - end of November); 10am - 2pm (December - end of April)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17398597,39.96732323 ]
+    },
+    "properties": {
+    "name":"Fairmount",
+    "type":"Farmers market",
+    "neighborhood":"FAIRMOUNT",
+    "listname":"Fairmount",
+    "mapname":"Fairmount",
+    "StoreSize":null,
+    "address":"22nd St. and Fairmount Ave.",
+    "time":"3-7pm",
+    "month":"June 6th- November 27th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16404908,39.96981974 ]
+    },
+    "properties": {
+    "name":"Francisville Artisan and Farmers Market",
+    "type":"Farmers market",
+    "neighborhood":"FRANCISVILLE",
+    "listname":"Francisville",
+    "mapname":"Francisville",
+    "StoreSize":null,
+    "address":"1628-32 Ridge Ave",
+    "time":"10am - 2pm",
+    "month":"TBD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15706422,39.950016 ]
+    },
+    "properties": {
+    "name":"Jefferson",
+    "type":"Farmers market",
+    "neighborhood":"WASHINGTON_SQUARE",
+    "listname":"Washington Square West",
+    "mapname":"Washington Square West",
+    "StoreSize":null,
+    "address":"10th and Chestnut St",
+    "time":"11am-3pm",
+    "month":"mid-April - November 21st"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17932424,39.94734056 ]
+    },
+    "properties": {
+    "name":"Fitler Square Park",
+    "type":"Farmers market",
+    "neighborhood":"FITLER_SQUARE",
+    "listname":"Fitler Square",
+    "mapname":"Fitler Square",
+    "StoreSize":null,
+    "address":"23rd and Pine St",
+    "time":"9am-2pm",
+    "month":"Open year round"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14545198,39.94216939 ]
+    },
+    "properties": {
+    "name":"Headhouse",
+    "type":"Farmers market",
+    "neighborhood":"SOCIETY_HILL",
+    "listname":"Society Hill",
+    "mapname":"Society Hill",
+    "StoreSize":null,
+    "address":"2nd and Lombard St",
+    "time":"10am-2pm",
+    "month":"Open year round"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14452089,39.95064114 ]
+    },
+    "properties": {
+    "name":"Christ Church",
+    "type":"Farmers market",
+    "neighborhood":"OLD_CITY",
+    "listname":"Old City",
+    "mapname":"Old City",
+    "StoreSize":null,
+    "address":"On Church St, between 2nd and 3rd Sts.",
+    "time":"2-7pm",
+    "month":"May 15 - October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16677066,40.03473424 ]
+    },
+    "properties": {
+    "name":"Germantown Kitchen Garden",
+    "type":"Farmers market",
+    "neighborhood":"WISTER",
+    "listname":"Wister",
+    "mapname":"Wister",
+    "StoreSize":null,
+    "address":"215 E. Penn St.",
+    "time":"9am-1pm",
+    "month":"May  - October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17271283,40.03437488 ]
+    },
+    "properties": {
+    "name":"Germantown & Schoolhouse",
+    "type":"Farmers market",
+    "neighborhood":"GERMANTOWN_PENN_KNOX",
+    "listname":"Germantown, Penn Knox",
+    "mapname":"Germantown - Penn Knox",
+    "StoreSize":null,
+    "address":"Germantown Ave and E. Schoolhouse Lane",
+    "time":"3-7pm",
+    "month":"June 13th - October 31st"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19163084,40.00796215 ]
+    },
+    "properties": {
+    "name":"East Falls",
+    "type":"Farmers market",
+    "neighborhood":"EAST_FALLS",
+    "listname":"East Falls",
+    "mapname":"East Falls",
+    "StoreSize":null,
+    "address":"4100 Ridge Ave",
+    "time":"10am-2pm",
+    "month":"May - November  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19674331,40.06737439 ]
+    },
+    "properties": {
+    "name":"Chestnut Hill Farmers�� Market",
+    "type":"Farmers market",
+    "neighborhood":"CHESTNUT_HILL",
+    "listname":"Chestnut Hill",
+    "mapname":"Chestnut Hill",
+    "StoreSize":null,
+    "address":"Winston Rd and Germantown Ave.",
+    "time":"9am �C 1pm; 10am - 12pm",
+    "month":"Open year round: 9am - 1pm (May - end of November); 10am - 12pm (Dec-April)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1424391,39.96534293 ]
+    },
+    "properties": {
+    "name":"Liberty Lands Park",
+    "type":"Farmers market",
+    "neighborhood":"NORTHERN_LIBERTIES",
+    "listname":"Northern Liberties",
+    "mapname":"Northern Liberties",
+    "StoreSize":null,
+    "address":"913 N. 3rd Street",
+    "time":"10am-2pm",
+    "month":"May 18th - October 26th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15690161,39.9785248 ]
+    },
+    "properties": {
+    "name":"Cecil B. Moore",
+    "type":"Farmers market",
+    "neighborhood":"YORKTOWN",
+    "listname":"Yorktown",
+    "mapname":"Yorktown",
+    "StoreSize":null,
+    "address":"Cecil B. Moore Ave between Broad & 13th St",
+    "time":"2-6pm",
+    "month":"June 6th �C November 21st"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14718576,40.01661869 ]
+    },
+    "properties": {
+    "name":"Hunting Park",
+    "type":"Farmers market",
+    "neighborhood":"HUNTING_PARK",
+    "listname":"Hunting Park",
+    "mapname":"Hunting Park",
+    "StoreSize":null,
+    "address":"W. Hunting Park Ave. and Old York Rd",
+    "time":"10am-2pm",
+    "month":"May 25th - November 23rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14376043,40.038056 ]
+    },
+    "properties": {
+    "name":"Park and Tabor",
+    "type":"Farmers market",
+    "neighborhood":"LOGAN",
+    "listname":"Logan",
+    "mapname":"Logan",
+    "StoreSize":null,
+    "address":"N. Park Ave. and W. Tabor Rd",
+    "time":"2-6pm",
+    "month":"May 21st - November 26th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13835394,39.99186093 ]
+    },
+    "properties": {
+    "name":"4th and Lehigh",
+    "type":"Farmers market",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington",
+    "StoreSize":null,
+    "address":"4th St & Lehigh Ave.",
+    "time":"12-4pm",
+    "month":"June 18th - Sept 10th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18637399,39.99178624 ]
+    },
+    "properties": {
+    "name":"33rd & Dauphin",
+    "type":"Farmers market",
+    "neighborhood":"STRAWBERRY_MANSION",
+    "listname":"Strawberry Mansion",
+    "mapname":"Strawberry Mansion",
+    "StoreSize":null,
+    "address":"33rd & Dauphin St",
+    "time":"2-6pm",
+    "month":"June 5th -November 13th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17764389,40.00557655 ]
+    },
+    "properties": {
+    "name":"SHARE Nice Roots Farm",
+    "type":"Farmers market",
+    "neighborhood":"ALLEGHENY_WEST",
+    "listname":"Allegheny West",
+    "mapname":"Allegheny West",
+    "StoreSize":null,
+    "address":"2901 W. Hunting Park Ave.",
+    "time":"2-4pm",
+    "month":"May - November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1343357,39.97500224 ]
+    },
+    "properties": {
+    "name":"North Front Street",
+    "type":"Farmers market",
+    "neighborhood":"WEST_KENSINGTON",
+    "listname":"Kensington, West",
+    "mapname":"West Kensington",
+    "StoreSize":null,
+    "address":"North Front Street and Cecil B Moore Avenue",
+    "time":"10am-2pm",
+    "month":"June 2nd- October 27th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17228194,40.00409637 ]
+    },
+    "properties": {
+    "name":"26th and Allegheny",
+    "type":"Farmers market",
+    "neighborhood":"ALLEGHENY_WEST",
+    "listname":"Allegheny West",
+    "mapname":"Allegheny West",
+    "StoreSize":null,
+    "address":"26th St and Allegheny Ave.",
+    "time":"12-4pm",
+    "month":"June 19th - September 11th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0768437,40.02326706 ]
+    },
+    "properties": {
+    "name":"Frankford Transportation Center ",
+    "type":"Farmers market",
+    "neighborhood":"FRANKFORD",
+    "listname":"Frankford",
+    "mapname":"Frankford",
+    "StoreSize":null,
+    "address":"Frankford and Bustleton Ave.",
+    "time":"2-6pm",
+    "month":"June 11th - October 29th "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.07624004,40.04069468 ]
+    },
+    "properties": {
+    "name":"Caster & Hellerman (Oxford Circle)",
+    "type":"Farmers market",
+    "neighborhood":"OXFORD_CIRCLE",
+    "listname":"Oxford Circle",
+    "mapname":"Oxford Circle",
+    "StoreSize":null,
+    "address":"Castor Ave & Hellerman St.",
+    "time":"12-4pm",
+    "month":"June 5th - November 6th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0218606,40.10011815 ]
+    },
+    "properties": {
+    "name":"Kleinlife",
+    "type":"Farmers market",
+    "neighborhood":"SOMERTON",
+    "listname":"Somerton",
+    "mapname":"Somerton",
+    "StoreSize":null,
+    "address":"Red Lion Rd & Jamison Ave",
+    "time":"12-4pm",
+    "month":"May -Nov "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21957111,40.0490191 ]
+    },
+    "properties": {
+    "name":"Henry Got Crops",
+    "type":"Farmers market",
+    "neighborhood":"WISSAHICKON_PARK",
+    "listname":"Wissahickon Park",
+    "mapname":"Wissahickon Park",
+    "StoreSize":null,
+    "address":"7095 Henry Ave",
+    "time":"12-7pm",
+    "month":"May - November "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19591535,40.04638662 ]
+    },
+    "properties": {
+    "name":"Mt. Airy",
+    "type":"Farmers market",
+    "neighborhood":"MOUNT_AIRY_WEST",
+    "listname":"Mount Airy, West",
+    "mapname":"West Mount Airy",
+    "StoreSize":null,
+    "address":"Carpenter Lane and Greene St.",
+    "time":"2-6 pm",
+    "month":"June 20th - Aug 22nd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16853704,40.03197711 ]
+    },
+    "properties": {
+    "name":"Grumblethorpe House",
+    "type":"Farmers market",
+    "neighborhood":"GERMANTOWN_PENN_KNOX",
+    "listname":"Germantown, Penn Knox",
+    "mapname":"Germantown - Penn Knox",
+    "StoreSize":null,
+    "address":"5267 Germantown Ave.",
+    "time":"9:30am-1:30pm",
+    "month":"June - Aug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.153516,40.06429505 ]
+    },
+    "properties": {
+    "name":"West Oak Lane",
+    "type":"Farmers market",
+    "neighborhood":"WEST_OAK_LANE",
+    "listname":"West Oak Lane",
+    "mapname":"West Oak Lane",
+    "StoreSize":null,
+    "address":"Ogontz Ave and Walnut Lane",
+    "time":"2-6pm",
+    "month":"July 9th - October 29th "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14023933,39.95274014 ]
+    },
+    "properties": {
+    "name":"The Food Trust's Market at Cherry Street Pier",
+    "type":"Farmers market",
+    "neighborhood":"RIVERFRONT",
+    "listname":"Riverfront",
+    "mapname":"Riverfront",
+    "StoreSize":null,
+    "address":"121 N. Christopher Columbus Blvd",
+    "time":"10 - 2pm",
+    "month":"July 13th - Novemeber 16th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22129589,40.03752814 ]
+    },
+    "properties": {
+    "name":"Gorgas Park",
+    "type":"Farmers market",
+    "neighborhood":"WISSAHICKON_HILLS",
+    "listname":"Wissahickon Hills",
+    "mapname":"Wissahickon Hills",
+    "StoreSize":null,
+    "address":"Ridge Ave and Acorn St.",
+    "time":"3-7pm",
+    "month":"May 24th - November 22nd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22083224,40.02598747 ]
+    },
+    "properties": {
+    "name":"Pretzel Park",
+    "type":"Farmers market",
+    "neighborhood":"MANAYUNK",
+    "listname":"Manayunk",
+    "mapname":"Manayunk",
+    "StoreSize":null,
+    "address":"4300 Silverwood St.",
+    "time":"10am-2pm",
+    "month":"May �C October "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15743543,39.91897074 ]
+    },
+    "properties": {
+    "name":"Novick Family Urban Farm Stand",
+    "type":"Farmers market",
+    "neighborhood":"WHITMAN",
+    "listname":"Whitman",
+    "mapname":"Whitman",
+    "StoreSize":null,
+    "address":"6th & Ritner St",
+    "time":"2-6pm",
+    "month":"May - Sept"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18142207,39.93217094 ]
+    },
+    "properties": {
+    "name":"22nd & Tasker",
+    "type":"Farmers market",
+    "neighborhood":"POINT_BREEZE",
+    "listname":"Point Breeze",
+    "mapname":"Point Breeze",
+    "StoreSize":null,
+    "address":"22nd and Tasker St",
+    "time":"2-6pm",
+    "month":"July 10th-  Oct 30th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16869095,39.92926543 ]
+    },
+    "properties": {
+    "name":"Broad and Morris",
+    "type":"Farmers market",
+    "neighborhood":"NEWBOLD",
+    "listname":"Newbold",
+    "mapname":"Newbold",
+    "StoreSize":null,
+    "address":"Broad and Morris Street",
+    "time":"2-6pm",
+    "month":"June 11th - September 17th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16309294,39.92980187 ]
+    },
+    "properties": {
+    "name":"Fountain",
+    "type":"Farmers market",
+    "neighborhood":"PASSYUNK_SQUARE",
+    "listname":"Passyunk Square",
+    "mapname":"Passyunk Square",
+    "StoreSize":null,
+    "address":"11th and Tasker St",
+    "time":"3-7pm",
+    "month":"May 15 - November 27th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15116237,39.92697131 ]
+    },
+    "properties": {
+    "name":"Dickinson Square",
+    "type":"Farmers market",
+    "neighborhood":"PENNSPORT",
+    "listname":"Pennsport",
+    "mapname":"Pennsport",
+    "StoreSize":null,
+    "address":"East Moyamensing Ave and Morris St",
+    "time":"10am-2pm",
+    "month":"May 19- November 24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21607633,39.93275162 ]
+    },
+    "properties": {
+    "name":"Sankofa Community Farm at Bartram��s Garden",
+    "type":"Farmers market",
+    "neighborhood":"BARTRAM_VILLAGE",
+    "listname":"Bartram Village",
+    "mapname":"Bartram Village",
+    "StoreSize":null,
+    "address":"54th & Lindbergh Blvd",
+    "time":"3:30-6:30pm",
+    "month":"June-November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22853606,39.93574182 ]
+    },
+    "properties": {
+    "name":"58th & Chester",
+    "type":"Farmers market",
+    "neighborhood":"KINGSESSING",
+    "listname":"Kingsessing",
+    "mapname":"Kingsessing",
+    "StoreSize":null,
+    "address":"58th St and Chester Ave.",
+    "time":"2-6pm",
+    "month":"July 10th -October 30th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22459303,39.96490511 ]
+    },
+    "properties": {
+    "name":"52nd & Haverford",
+    "type":"Farmers market",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington",
+    "StoreSize":null,
+    "address":"52nd St and Haverford Ave.",
+    "time":"12-4pm",
+    "month":"June 5th �C October 30th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.20926195,39.94955082 ]
+    },
+    "properties": {
+    "name":"Clark Park",
+    "type":"Farmers market",
+    "neighborhood":"SPRUCE_HILL",
+    "listname":"Spruce Hill",
+    "mapname":"Spruce Hill",
+    "StoreSize":null,
+    "address":"43rd St. and Baltimore Ave.",
+    "time":"Thurs 3-7pm, Sat 10am-2pm",
+    "month":"Thurs open June 6th �C November 27th, Sat open year round"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22633095,39.94778425 ]
+    },
+    "properties": {
+    "name":"Greensgrow West",
+    "type":"Farmers market",
+    "neighborhood":"CEDAR_PARK",
+    "listname":"Cedar Park",
+    "mapname":"Cedar Park",
+    "StoreSize":null,
+    "address":"5123 Baltimore Ave.",
+    "time":"12pm- 4pm",
+    "month":"Mid-June- September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21667923,39.99736112 ]
+    },
+    "properties": {
+    "name":"Heritage Farm ",
+    "type":"Farmers market",
+    "neighborhood":"WYNNEFIELD_HEIGHTS",
+    "listname":"Wynnefield Heights",
+    "mapname":"Wynnefield Heights",
+    "StoreSize":null,
+    "address":"Lancaster & City Avenue",
+    "time":"3:30-5:30pm",
+    "month":"May - September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19478911,39.95315133 ]
+    },
+    "properties": {
+    "name":"University Square",
+    "type":"Farmers market",
+    "neighborhood":"UNIVERSITY_CITY",
+    "listname":"University City",
+    "mapname":"University City",
+    "StoreSize":null,
+    "address":"4300 Monument Rd.",
+    "time":"10am-5pm (sunset)",
+    "month":"January - middle of November "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22451541,39.95838766 ]
+    },
+    "properties": {
+    "name":"W. Philly YMCA Market",
+    "type":"Farmers market",
+    "neighborhood":"WALNUT_HILL",
+    "listname":"Walnut Hill",
+    "mapname":"Walnut Hill",
+    "StoreSize":null,
+    "address":"36th and Walnut St",
+    "time":"10am-2pm",
+    "month":"June - September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22689788,39.96938581 ]
+    },
+    "properties": {
+    "name":"Neighborhood Foods Farm",
+    "type":"Farmers market",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington",
+    "StoreSize":null,
+    "address":"5120 Chestnut St",
+    "time":"Wed: 2pm-6pm, Sat: 10am-2pm",
+    "month":"Wednesdays: June - August, Saturdays: May �C October "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.213389,39.95855969 ]
+    },
+    "properties": {
+    "name":"Walnut Hill",
+    "type":"Farmers market",
+    "neighborhood":"WALNUT_HILL",
+    "listname":"Walnut Hill",
+    "mapname":"Walnut Hill",
+    "StoreSize":null,
+    "address":"608 N. 53rd St",
+    "time":"4-7pm",
+    "month":"June- November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.23378744,39.96800189 ]
+    },
+    "properties": {
+    "name":"Shepard Rec Market",
+    "type":"Farmers market",
+    "neighborhood":"HADDINGTON",
+    "listname":"Haddington",
+    "mapname":"Haddington",
+    "StoreSize":null,
+    "address":"4610 Market St.",
+    "time":"12pm-3pm",
+    "month":"June - October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21855917,39.96613739 ]
+    },
+    "properties": {
+    "name":"Mill Creek Farm",
+    "type":"Farmers market",
+    "neighborhood":"MILL_CREEK",
+    "listname":"Mill Creek",
+    "mapname":"Mill Creek",
+    "StoreSize":null,
+    "address":"5700 Haverford Ave",
+    "time":"Wed 1-5pm; Sat 11am-2pm",
+    "month":"June - Thanksgiving"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "name":"",
+    "type":"",
+    "neighborhood":"",
+    "listname":"",
+    "mapname":"",
+    "StoreSize":null,
+    "address":"4901 Brown St",
+    "time":"",
+    "month":""
+    }
+  }
+]
+}
